@@ -1,0 +1,4 @@
+apache2
+php
+php-cli
+php-common
